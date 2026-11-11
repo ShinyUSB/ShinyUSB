@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "login": "ShinyUSB",
+  "seed": "#2BB3C0",
+  "seedFromAvatar": false,
+  "scheme": "vibrant",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "stats",
+    "streak"
+  ],
+  "hero": {
+    "greeting": "Hello there! I am ",
+    "name": "ShinyUSB,",
+    "subtitle": "one of The ShinyProject creators.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "С-137 dimension"
+      },
+      {
+        "icon": "code",
+        "label": "C · Shell · Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me:",
+    "items": [
+      {
+        "icon": "person",
+        "label": "The face of the project"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly backend"
+      },
+      {
+        "icon": "favorite",
+        "label": "Love yall <3"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:android",
+            "label": "Android"
+          },
+          {
+            "icon": "brand:debian",
+            "label": "Debian"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "All-around stuff"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:zdotai",
+            "label": "ZCode"
+          },
+          {
+            "icon": "brand:opencode",
+            "label": "OpenCode"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "pixel-garden",
+      "tiny-weather"
+    ],
+    "overrides": {
+      "pixel-garden": {
+        "shape": "cookie12",
+        "icon": "folder_zip",
+        "text": ""
+      },
+      "n9750-halium-linux": {
+        "icon": "brand:debian"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/ShinyUSB"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/shinyusb"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@yanderedemodev"
+      }
+    ],
+    "variant": "icon",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "label": "Project's Telegram",
+        "url": "https://t.me/shinyusbc",
+        "style": "filled"
+      },
+      {
+        "icon": "brand:tiktok",
+        "label": "Project's TikTok",
+        "url": "https://www.tiktok.com/@shinyusb",
+        "style": "tonal"
+      }
+    ]
+  }
+}
