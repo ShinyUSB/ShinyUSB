@@ -9,16 +9,15 @@
   "order": [
     "hero",
     "socials",
+    "buttons",
     "about",
     "stack",
     "projects",
     "stats",
-    "streak",
     "wave",
-    "buttons"
+    "streak"
   ],
   "hidden": [
-    "stats",
     "streak"
   ],
   "hero": {
@@ -89,6 +88,10 @@
           {
             "icon": "brand:opencode",
             "label": "OpenCode"
+          },
+          {
+            "icon": "terminal_2",
+            "label": "Nano"
           }
         ]
       }
@@ -145,9 +148,10 @@
         "url": "https://www.tiktok.com/@yanderedemodev"
       }
     ],
-    "variant": "icon",
+    "variant": "chip",
     "fill": "tonal",
-    "card": true
+    "card": true,
+    "shape": "soft"
   },
   "buttons": {
     "items": [
@@ -161,7 +165,7 @@
         "icon": "brand:tiktok",
         "label": "Project's TikTok",
         "url": "https://www.tiktok.com/@shinyusb",
-        "style": "tonal"
+        "style": "filled"
       }
     ]
   }
