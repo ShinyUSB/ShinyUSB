@@ -65,12 +65,12 @@
             "label": "Android"
           },
           {
-            "icon": "brand:debian",
-            "label": "Debian"
+            "icon": "brand:linux",
+            "label": "Linux"
           },
           {
-            "icon": "brand:linux",
-            "label": "All-around stuff"
+            "icon": "brand:blender",
+            "label": "3D"
           }
         ]
       },
@@ -82,26 +82,26 @@
             "label": "Git"
           },
           {
+            "icon": "terminal_2",
+            "label": "Nano"
+          },
+          {
             "icon": "brand:zdotai",
             "label": "ZCode"
           },
           {
             "icon": "brand:opencode",
             "label": "OpenCode"
-          },
-          {
-            "icon": "terminal_2",
-            "label": "Nano"
           }
         ]
       }
     ]
   },
   "projects": {
-    "source": "pinned",
+    "source": "manual",
     "repos": [
-      "pixel-garden",
-      "tiny-weather"
+      "ShinyKernel",
+      "n9750-halium-linux"
     ],
     "overrides": {
       "pixel-garden": {
@@ -111,6 +111,10 @@
       },
       "n9750-halium-linux": {
         "icon": "brand:debian"
+      },
+      "ShinyKernel": {
+        "icon": "brand:android",
+        "shape": "flower"
       }
     },
     "empty": "No description yet.",
