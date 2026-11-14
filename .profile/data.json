@@ -1,25 +1,37 @@
 {
- "key": "2fb01cb8",
+ "key": "9041a142",
  "stars": 0,
- "contributions": 9,
- "repos": 2,
+ "contributions": 12,
+ "repos": 3,
  "followers": 0,
  "languages": [
   [
    "C",
-   290208
+   1038337379
+  ],
+  [
+   "Assembly",
+   10680291
+  ],
+  [
+   "Perl",
+   1250181
   ],
   [
    "Python",
-   156288
+   855723
   ],
   [
-   "Lua",
-   447
+   "C++",
+   352160
   ],
   [
-   "CSS",
-   204
+   "Answer Set Programming",
+   151596
+  ],
+  [
+   "Koka",
+   149247
   ]
  ],
  "days": [
@@ -129,7 +141,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 4,
     "day": 14,
     "today": true
    }
@@ -141,6 +153,15 @@
  },
  "pins": [],
  "all": [
+  {
+   "name": "ShinyKernel",
+   "url": "https://github.com/ShinyUSB/ShinyKernel",
+   "text": "ShinyKernel — custom kernel for Samsung Galaxy Note 10+ (SM-N9750/d2q), SM8150: 4.14.336, MGLRU, ThinLTO, SukiSU-Ultra KPM + UAPI-6 extensions, SuSFS, CAKE, bypass charging",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
   {
    "name": "ShinyUSB",
    "url": "https://github.com/ShinyUSB/ShinyUSB",
