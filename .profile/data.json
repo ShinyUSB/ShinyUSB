@@ -1,5 +1,5 @@
 {
- "key": "ec210000",
+ "key": "f20ee116",
  "stars": 0,
  "contributions": 13,
  "repos": 3,
@@ -133,9 +133,13 @@
    {
     "c": 0,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null
   ]
  ],
